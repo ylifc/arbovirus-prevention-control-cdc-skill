@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+history-data/
+case-assessments/
+runs/
+weather-cache/
+private/
+demo-*/
+baoan-vector-control/profiles/history-resource.json
